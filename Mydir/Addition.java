@@ -6,6 +6,6 @@ public static void main(String args[])
 	a=10;
 	b=25;
 	res=a+b;
-	System.out.println("The sum is "+res);
+	System.out.println("The total is "+res);
 }
 }
