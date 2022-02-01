@@ -1,3 +1,4 @@
+//Simple java program to display message
 import java.lang.*;
 class Sample
 {
