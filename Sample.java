@@ -1,3 +1,4 @@
+//Simple java program to display message
 import java.lang.*;
 class Sample
 {
@@ -10,5 +11,9 @@ System.out.println("Thank you for joining devops course");
 System.out.println("Added extra line");
 System.out.println("Date & Time not used : ");
 System.out.println("This is from fayaz branch");
+System.out.println("Thank you for joining devops course");
+System.out.println("Added extra line");
+//This is a comment at the end of main()
+//One more comment line
 }
 }
