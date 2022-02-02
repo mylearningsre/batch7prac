@@ -15,7 +15,10 @@ System.out.println("Thank you for joining devops course");
 System.out.println("Added extra line");
 //This is a comment at the end of main()
 //One more comment line
+<<<<<<< HEAD
 System.out.println("Hello");
 System.out.println("Devops");
+=======
+>>>>>>> parent of ccd5fd4 (Added one sop statement)
 }
 }
